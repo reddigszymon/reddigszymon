@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Solidity, React and NextJS**
 
-- 📫 How to reach me **reddigszymon@hotmail.com**
+- 📫 How to reach me **szymonreddig@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
