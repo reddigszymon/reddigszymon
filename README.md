@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **future web3 hackathons!**
 
-- 💬 Ask me about **Solidity, React and NextJS**
+- 💬 Ask me about **Solidity, React and NodeJS**
 
 - 📫 How to reach me **szymonreddig@hotmail.com**
 
